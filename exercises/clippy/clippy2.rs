@@ -9,5 +9,5 @@ fn main() {
     while let Some(x) = option {
         res += x;
     }
-    println!("{}", res);
+    println!("{res}");
 }
